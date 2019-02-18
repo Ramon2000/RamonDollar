@@ -1,0 +1,13 @@
+# Idea
+/.idea
+
+# Sensitive data
+keys.js
+
+# build files
+.next
+.next/*
+
+# dependencies
+/node_modules
+node_modules
